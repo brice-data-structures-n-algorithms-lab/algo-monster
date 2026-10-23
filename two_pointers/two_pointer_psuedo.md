@@ -65,3 +65,9 @@ There are two options that will terminate the function, which are as follows:
 
 ## Evaluate the current pair
 
+- What two values will be added?
+- If their sum equals the target, what happens?
+- If their sum is too small, which pointer should move, and why?
+- If their sum is too large, which pointer should move, and why?
+
+Why this matters: use the list’s sorted order to explain decisions made.
